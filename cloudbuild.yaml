@@ -1,0 +1,8 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/blockchainexplanation/blockchain-demo:$SHORT_SHA', '.']
+  timeout: 500s
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/blockchainexplanation/blockchain-demo:$SHORT_SHA']
+  env:
+  - 'CLOUDSDK_COMPUTE_ZONE=europe-central2'
