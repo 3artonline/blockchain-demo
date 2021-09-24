@@ -6,5 +6,3 @@ steps:
   args: ['push', 'gcr.io/blockchainexplanation/blockchain-demo:$SHORT_SHA']
 - name: 'gcr.io/cloud-builders/gcloud'
   args: ['run', 'deploy', 'blockchain-demo', '--region=europe-central2', '--platform=managed', '--image=gcr.io/blockchainexplanation/blockchain-demo:$SHORT_SHA']
-env:
-- 'CLOUDSDK_COMPUTE_ZONE=europe-central2'
