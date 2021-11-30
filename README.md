@@ -4,9 +4,7 @@ Czyli przykładowy dashboard pokazujący funkcjonowanie podstaw technologii bloc
 Internetowa demonstracja koncepcji blockchain.
 
 Jest to bardzo podstawowy wizualny wstęp do koncepcji kryjących się za blockchainem. Wprowadzenie do 
-pojęcia rozproszonego rejestru za pomocą interaktywnego dema internetowego, które jest dostępne tutaj:
-
-http://3art.online/blockchain/
+pojęcia rozproszonego rejestru za pomocą interaktywnego dema internetowego
 
 ## Setup
 ściągnij kod:
