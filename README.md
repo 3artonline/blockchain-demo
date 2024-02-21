@@ -1,6 +1,6 @@
 # Blockchain Demo
-To jest fork kodu -  anders94/blockchain-demo
-Czyli przykładowy dashboard pokazujący funkcjonowanie podstaw technologii blockchain.
+Ten kod powstal powstal na podstawie -  anders94/blockchain-demo
+Przedstawia przykładowy dashboard pokazujący funkcjonowanie podstaw technologii blockchain.
 Internetowa demonstracja koncepcji blockchain.
 
 Jest to bardzo podstawowy wizualny wstęp do koncepcji kryjących się za blockchainem. Wprowadzenie do 
